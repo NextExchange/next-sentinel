@@ -31,7 +31,7 @@ Make sure the local Next daemon running is at least version 3.0
 
 Clone the Sentinel repo and install Python dependencies.
 
-    $ git clone https://github.com/next/sentinel.git && cd sentinel
+    $ git clone https://github.com/NextExchange/sentinel.git && cd sentinel
     $ virtualenv ./venv
     $ ./venv/bin/pip install -r requirements.txt
 
