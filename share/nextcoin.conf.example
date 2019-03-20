@@ -1,0 +1,15 @@
+# basic settings
+testnet=1
+logtimestamps=1
+
+# optional indices
+txindex=1
+addressindex=1
+timestampindex=1
+spentindex=1
+
+# JSONRPC
+server=1
+rpcuser=nextrpc
+rpcpassword=abcdefghijklmnopqrstuvwxyz0123456789ABCDEF10
+rpcallowip=127.0.0.1
